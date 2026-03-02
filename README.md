@@ -133,4 +133,4 @@ Install k6:
 choco install k6
 
 Run the test:
-k6 run script.js
+```k6 run script.js
