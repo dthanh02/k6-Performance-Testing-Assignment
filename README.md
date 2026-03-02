@@ -128,9 +128,7 @@ The test script includes:
 ##  How to Run the Test
 
 Install k6:
-
-```bash
 choco install k6
 
 Run the test:
-```k6 run script.js
+k6 run script.js
