@@ -13,7 +13,7 @@ The purpose of this project is to practice writing performance test scripts usin
 
 > Note: Swagger Petstore is a public demo environment, so results may not fully reflect production backend behavior.
 
-##Tools Used
+## Tools Used
 - k6  
 - JavaScript  
 - k6 HTML Reporter  
